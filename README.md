@@ -1,6 +1,7 @@
-### Hi there 👋
 
 <!--
+### Hi there 👋
+
 **AdrienTD/AdrienTD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,26 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Adrien.
+### Hello, Adrien here 👋.
 
 I learned programming very young, and am still programming up to this day!
 
-I'm a person who likes computer science in general and likes to learn any relevant topic.
+I'm a person who has passion for computer science and software development.
 
-Domains I have good knowledge are:
- - App development (PC, mobile)
- - Operating systems / kernels
- - Security
- - Video game development (including graphics rendering)
- - Reverse engineering
- - Web development
+Here I mostly have video game related projects, especially modding tools, as I am curious in understanding how the games work and want to make it possible for me or communities to expand them further, if possible. :)
 
-Domains I have some knowledge and interested to learn:
- - Machine learning
- - Embedded
- - Robotics
-
-Programming languages I have used so far:
-- ⭐⭐⭐ C++, Python, C
-- ⭐⭐⚪ C#, Java, JavaScript
-- ⭐⚪⚪ Swift, Scala, Delphi
+I do have interest in other domains as well. I have done some small projects in web development, mobile app development robotics, machine learning, embedded, and I'm always interested in learning new things.
